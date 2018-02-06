@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-wallet",
+  "version": "0.0.1",
+  "description": "blockchain wallet written on js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
